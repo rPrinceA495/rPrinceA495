@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Prince Appiah a Software Engineer currently based in Gaborone, Botswana. I got into programming to merge my passion for solving challenging problems with creative solutions.
+
+My skillset ranges from full-stack to mobile development, DevOps and I have recently started getiing into Blockchain development using Plutus, a native smart contract language for Cardano based on the functional programming language Haskell. My goal is to use my talent and skillset to effect change in my community and the world at large by creating solutions in the domains of e-Health, productivity, sustainability and business analytics.
+
+You can reach out to me via my LinkedIn. I am happy and available to share ideas with other budding developers!
+
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
 <!--
 **rPrinceA495/rPrinceA495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
