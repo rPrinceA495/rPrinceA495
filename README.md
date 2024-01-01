@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :man_technologist: About Me :
-I am Prince Appiah, a Software Engineer currently based in Paris. I got into programming to merge my passions for solving challenging problems and coming up with creative solutions. My goal is to use my talent and skillset to effect change in my community and the world at large by creating solutions in the domains of e-Health, productivity, sustainability and business analytics.
+I am Prince Appiah, a Software Engineer currently based in Barcelona. I got into programming to merge my passions for solving challenging problems and coming up with creative solutions. My goal is to use my talent and skillset to effect change in my community and the world at large by creating solutions in the domains of e-Health, productivity, sustainability and business analytics.
 
 ---
 
